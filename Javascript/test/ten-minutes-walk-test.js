@@ -1,4 +1,4 @@
-import isValidWalk from '../ten-minutes-walk.js';
+import isValidWalk from '../src/ten-minutes-walk.js';
 import { assert } from 'chai';
 
 describe("tenMinutesWalk", () => {

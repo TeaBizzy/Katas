@@ -1,4 +1,4 @@
-import digitalRoot from '../digital-root.js';
+import digitalRoot from '../src/digital-root.js';
 import { assert } from 'chai';
 
 describe("digitalRoot", () => {
