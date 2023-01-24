@@ -1,4 +1,4 @@
-import toCamelCase from '../kebab-snake-case-to-camel-case';
+import toCamelCase from '../kebab-snake-case-to-camel-case.js';
 import { assert } from 'chai';
 
 describe("toCamelCase", () => {
