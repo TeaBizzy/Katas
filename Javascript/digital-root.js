@@ -1,3 +1,4 @@
+//Returns the recursive sum of all the digits in a number.
 export default function digitalRoot(n) {
   const numArr = n.toString()
     .split('')
